@@ -1,0 +1,11 @@
+section {
+  display: flex;
+}
+
+catalog-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: lightskyblue;
+  min-height: 100px;
+}
